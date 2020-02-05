@@ -14,6 +14,14 @@ body {
   color: #2E4052
 }
 
+#hiit-tag {
+  text-align: center;
+  font-family: 'Arvo', serif;
+  color: #2E4052
+  font-weight: bold;
+
+}
+
 .description-cards img {
   max-width:10%;
   height:auto;
